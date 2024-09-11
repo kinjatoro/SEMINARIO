@@ -5,9 +5,8 @@
 3. Darle a "clone github repository" y pegar `https://github.com/kinjatoro/SEMINARIO`
 4. Seleccionar la carpeta donde querés que se instale (no es necesario crear una nueva, al clonar el proyecto se crea una carpeta contenedora automáticamente).
 5. Abrir la terminal (CTRL ñ)
-6. Ejecutar el comando `npm init react-app FTML`
-7. Ejecutar en la terminal `npm i`
-8. Ejecutar `npm start`
+6. Ejecutar en la terminal `npm i`
+7. Ejecutar `npm start`
 
 https://mui.com/material-ui/getting-started/
 
