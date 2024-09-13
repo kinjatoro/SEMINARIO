@@ -12,7 +12,6 @@ https://mui.com/material-ui/getting-started/
 
 Probar estilos -> https://bareynol.github.io/mui-theme-creator/
 
-
 ---
 ### **TEMPLATES** 
 * DEVIAS -> https://mui.com/store/previews/devias-kit/
